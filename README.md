@@ -1,6 +1,5 @@
-### Gurrr 👋
+### print("Hello World")
 
-- 🔭 Bird Lover
-- 🌱 I’m currently learning computer science
-- 📫 How to reach me: Discord: FabianusMaximus#7731
-- 😄 Pronouns: He/his (Xier/Xis)
+- 💻 Currently studying computer science
+- 👾 Linux >>> Windows
+- 🌌 Sp4c3d 0ut
